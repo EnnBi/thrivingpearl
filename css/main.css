@@ -1231,10 +1231,10 @@ li.tg-rss a { background:#ff6600; }
 .tg-formtrip .tg-btn {
 	top: 0;
 	right: 0;
-	height: 50px;
+	height: 40px;
 	padding: 0 45px;
 	position: absolute;
-	line-height: 50px;
+	line-height: 40px;
 	border-radius: 5px;
 }
 .tg-formtrip .tg-btn:hover{color:#fff;}
